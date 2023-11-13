@@ -11,7 +11,7 @@ Berdasarkan analisis kepada customer airline data, maka pelanggan dapat dibagi m
 3. Kelas 2: Pelanggan di kelas 2 merupakan pelanggan yang memiliki average monetary value yang rendah dibanding kelas 0 dan 1, namun memiliki frekuensi penerbangan dan recency yang lebih tinggi. Mereka adalah pelanggan loyal dan masih aktif namun pembelian per transaksi nya dalam jumlah yang kecil.
 4. Kelas 3: Pelanggan di kelas 3 merupakan pelanggan yang memiliki average monetary value yang paling rendah dan juga frekuensi penerbangan yang rendah. Mereka merupakan pelanggan yang jarang melakukan transaksi atau sudah berhenti melakukan transaksi
 
-#Rekomendasi
+# Rekomendasi
 Beberapa rekomendasi bisnis yang dapat dilakukan untuk berbagai kelas pelanggan
 1. Kelas 0: Pihak airline harus maintain loyalty pelanggan dengan memberikan additional rewards atau perks serta dapat memberikan akses ke fitur eksklusif yang hanya dapat diakses oleh pelanggan dalam kelas ini.
 2. Kelas 1: Pihak airline dapat fokus untuk melakukan pemasaran atau meningkatkan kualitas layanan dan memberikan pengalaman yang menyenangkan saat terbang agar pelanggan ini dapat lebih sering melakukan transaksi
