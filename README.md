@@ -6,8 +6,8 @@ Unsupervised Learning Project on Airline Customer Value Dataset
 ![Clustering Result](https://github.com/mezkymy/airline-cv-analysis/assets/79908491/7cba854e-6c33-435f-bc30-69f430eeaf0b)
 
 Berdasarkan analisis kepada customer airline data, maka pelanggan dapat dibagi menjadi 4 kelas yaitu
-1. Kelas 0: Pelanggan di kelas 0 merupakan pelanggan yang memiliki average monetary value yang tinggi, serta frekuensi yang tinggi dalam terbang menggunakan pesawat. pelanggan di kelas ini merupakan pelanggan yang paling aktif
-2. Kelas 1: Pelanggan di kelas 1 merupakan pelanggan yang memiliki average monetary value yang tinggi, namun frekuensi penerbangan dan recency yang lebih rendah dibanding kelas 0. pelanggan di kelas ini merupakan pelanggan yang mungkin pernah membeli tiket dalam kuantitas banyak di masa lalu namun sudah tidak sering saat ini
+1. Kelas 0: Pelanggan di kelas 0 merupakan pelanggan yang memiliki average monetary value yang tinggi, serta frekuensi yang tinggi dalam menggunakan pesawat terbang. Pelanggan di kelas ini merupakan pelanggan yang paling aktif
+2. Kelas 1: Pelanggan di kelas 1 merupakan pelanggan yang memiliki average monetary value yang tinggi, namun frekuensi penerbangan dan recency yang lebih rendah dibanding kelas 0. Pelanggan di kelas ini merupakan pelanggan yang mungkin pernah membeli tiket dalam kuantitas banyak di masa lalu namun sudah tidak sering saat ini
 3. Kelas 2: Pelanggan di kelas 2 merupakan pelanggan yang memiliki average monetary value yang rendah dibanding kelas 0 dan 1, namun memiliki frekuensi penerbangan dan recency yang lebih tinggi. Mereka adalah pelanggan loyal dan masih aktif namun pembelian per transaksi nya dalam jumlah yang kecil.
 4. Kelas 3: Pelanggan di kelas 3 merupakan pelanggan yang memiliki average monetary value yang paling rendah dan juga frekuensi penerbangan yang rendah. Mereka merupakan pelanggan yang jarang melakukan transaksi atau sudah berhenti melakukan transaksi
 
